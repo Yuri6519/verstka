@@ -1,3 +1,5 @@
 # verstka
 Course verstka
-1. Edit. 20180702
+=======
+Next
+>>>>>>> 0069cfd027826e137ee1d67bc68cfd9574985e5f
